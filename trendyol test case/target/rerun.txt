@@ -1,0 +1,1 @@
+file:src/test/java/trendyol/feature/trendyol.feature:24
